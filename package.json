@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/fengnovo/water-mark/issues"
   },
-  "homepage": ".",
+  "homepage": "https://github.com/fengnovo/water-mark",
   "devDependencies": {
     "typescript": "^4.6.3",
     "vite": "^2.9.1"
