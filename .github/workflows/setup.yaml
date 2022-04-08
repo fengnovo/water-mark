@@ -23,4 +23,4 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
-          folder: dist # The folder the action should deploy.
+          folder: water-mark # The folder the action should deploy.
