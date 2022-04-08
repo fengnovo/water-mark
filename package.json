@@ -1,0 +1,26 @@
+{
+  "name": "water-mark",
+  "version": "1.0.0",
+  "description": "a watermark for html",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengnovo/water-mark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengnovo/water-mark/issues"
+  },
+  "homepage": "https://github.com/fengnovo/water-mark#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3",
+    "vite": "^2.9.1"
+  }
+}
